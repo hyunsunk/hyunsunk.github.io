@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title:  <a href="">Hyunsun <strong>Kim-Hahm</strong> </a>
+title:  <a href="">Hyunsun <strong>Kim-Hahm</strong> link</a>
 description: Ph.D. Candidate | hkim332@illinois.edu | 330 Wohlers Hall, 1206 S. Sixth Street, Champaign, IL 61820
 
 profile:
@@ -10,7 +10,6 @@ profile:
   address: >
     <p>Gies College of Business</p>
     <p>University of Illinois at Urbana-Champaign</p>
-    <a href="">in a relevant phrase a <strong>relevant</strong>link</a>
 
 news: false
 social: true
