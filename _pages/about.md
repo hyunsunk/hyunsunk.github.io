@@ -19,4 +19,4 @@ I am a PhD candidate in Organizational Behavior/Theory at the Gies College of Bu
 
 I study settings that bear high ambiguities, where there is high outcome uncertainty, the meaning of actions is subject to interpretation, and conflicting external demands are present, such as U.S. venture capital industry, patent litigation, and alternative litigation financing. <a href="/research/"> My dissertation </a> examines spillover effects of media attention from an unconventional direction from nascent startups to established venture capital firms. 
 
-Prior to joining the academia, I worked as a project financial controller in Schneider Electric, in Grenoble, France. I also participated in the reestablishment of AIESEC Ghana. 
+Prior to joining the academia, I worked as a project financial controller at Schneider Electric, in Grenoble, France. I also participated in the re-establishment of AIESEC Ghana. 
