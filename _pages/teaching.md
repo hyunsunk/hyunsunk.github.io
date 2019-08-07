@@ -5,15 +5,16 @@ title: teaching
 description: 
 ---
 
-Instructor 
+<strong>Instructor</strong> 
 
 BADM313 Strategic Human Resource Management
 
 - Fall 2018, Student evaluation: `4.8/5.0` 
- --Teacher ranked as excellent by their students 
+ --<a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent"> Teacher ranked as excellent by their students </a>
 - Fall 2017, Student evaluation: `4.3/5.0`
 
-Teaching Assistant
+
+<strong>Teaching Assistant</strong>
 
 BADM310 Management and Organizational Behavior
 
