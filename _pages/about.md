@@ -2,13 +2,13 @@
 layout: about
 permalink: /
 title: Hyunsun <strong>Kim-Hahm</strong> 
-description: Ph.D. Candidate in Organizational Behavior/Theory. <a href="https://giesbusiness.illinois.edu">Gies College of Business</a>. 330 Wohlers Hall, 1206 S. Sixth Street, Champaign, IL 61820
+description: Ph.D. Candidate. 330 Wohlers Hall, 1206 S. Sixth Street, Champaign, IL 61820
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p></p>
+    <p> <a href="https://giesbusiness.illinois.edu">Gies College of Business</a>. </p>
     <p>Gies College of Business</p>
     <p>University of Illinois at Urbana-Champaign</p>
 
@@ -16,7 +16,7 @@ news: false
 social: true
 ---
 
-I am a PhD candidate in Organizational Theory at the Gies College of Business at the University of Illinois at Urbana-Champaign. I study antecedents and consequences of social evaluations, such as corporate reputation, organizational celebrity, and approval through media. I am generally interested in how newness or unfamiliarity are accepted, rejected, or ignored by audiences. 
+I am a PhD candidate in Organizational Behavior/Theory at the Gies College of Business at the University of Illinois at Urbana-Champaign. I study antecedents and consequences of social evaluations, such as corporate reputation, organizational celebrity, and approval through media. I am generally interested in how newness or unfamiliarity are accepted, rejected, or ignored by audiences. 
 
 My dissertation examines spillover effects of media attention from an unconventional direction from nascent startups to established venture capital firms. I study settings that bear high ambiguities, where there is high outcome uncertainty, the meaning of actions is subject to interpretation, and conflicting external demands are present, such as U.S. venture capital industry, patent litigation, and alternative litigation financing.   
 
