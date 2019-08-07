@@ -10,6 +10,7 @@ profile:
   address: >
     <p>Gies College of Business</p>
     <p>University of Illinois at Urbana-Champaign</p>
+    <a href="">in a relevant phrase a <strong>relevant</strong>link</a>
 
 news: false
 social: true
