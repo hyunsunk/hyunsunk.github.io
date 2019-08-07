@@ -17,7 +17,7 @@ social: true
 
 I am a PhD candidate in Organizational Behavior/Theory at the Gies College of Business at the University of Illinois at Urbana-Champaign. I study antecedents and consequences of social evaluations, including corporate reputation, organizational celebrity, and media attention. I focus particularly on how newness or unfamiliarity are accepted, rejected, or ignored by audiences. 
 
-My dissertation examines spillover effects of media attention from an unconventional direction from nascent startups to established venture capital firms. 
+<a href="/research/"> My dissertation </a> examines spillover effects of media attention from an unconventional direction from nascent startups to established venture capital firms. 
 
 I study settings that bear high ambiguities, where there is high outcome uncertainty, the meaning of actions is subject to interpretation, and conflicting external demands are present, such as U.S. venture capital industry, patent litigation, and alternative litigation financing.   
 
