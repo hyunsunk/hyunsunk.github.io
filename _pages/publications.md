@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /research/
 title: research
 description: 
 years: [1956, 1950, 1935, 1905]
