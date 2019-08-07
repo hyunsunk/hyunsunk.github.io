@@ -1,14 +1,13 @@
 ---
 layout: about
 permalink: /
-title: Hyunsun <strong>Kim-Hahm</strong> 
+title:  <a href=""> Hyunsun <strong>Kim-Hahm</strong> </a>. 
 description: Ph.D. Candidate | hkim332@illinois.edu | 330 Wohlers Hall, 1206 S. Sixth Street, Champaign, IL 61820
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    #<p> <a href="https://giesbusiness.illinois.edu">Gies College of Business</a>. </p>
     <p>Gies College of Business</p>
     <p>University of Illinois at Urbana-Champaign</p>
 
@@ -20,7 +19,7 @@ I am a PhD candidate in Organizational Behavior/Theory at the Gies College of Bu
 
 My dissertation examines spillover effects of media attention from an unconventional direction from nascent startups to established venture capital firms. I study settings that bear high ambiguities, where there is high outcome uncertainty, the meaning of actions is subject to interpretation, and conflicting external demands are present, such as U.S. venture capital industry, patent litigation, and alternative litigation financing.   
 
-Prior to joining the academia, I worked as a project financial controller in Schneider Electric, Grenoble, France. I also participated in the reestablishment of AIESEC Ghana. 
+Prior to joining the academia, I worked as a project financial controller in Schneider Electric, in Grenoble, France. I also participated in the reestablishment of AIESEC Ghana. 
 
 Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
