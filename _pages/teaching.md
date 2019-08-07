@@ -11,7 +11,7 @@ BADM313 Strategic Human Resource Management
  --<a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent"> Teacher ranked as excellent by their students (rates were "outstanding")</a>
 - Fall 2017, Student evaluation: `4.3/5.0`
 
-
+<br/>
 <strong>Teaching Assistant</strong> <br/>
 BADM310 Management and Organizational Behavior
 - Fall 2019
