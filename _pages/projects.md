@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: cv
+permalink: /cv/
+description: click to download [get the PDF](/assets/pdf/cv.pdf)
 ---
 
 {% for project in site.projects %}
