@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Hyunsun</strong> Kim-Hahm
+description: Ph.D. Candidate in Organizational Behavior/Theory. <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
