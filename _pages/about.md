@@ -2,22 +2,26 @@
 layout: about
 permalink: /
 title: Hyunsun <strong>Kim-Hahm</strong> 
-description: <a href="https://giesbusiness.illinois.edu">Gies College of Business</a>. 330 Wohlers Hall, 1206 S. Sixth Street, Champaign, IL 61820
+description: Ph.D. Candidate in Organizational Behavior/Theory. <a href="https://giesbusiness.illinois.edu">Gies College of Business</a>. 330 Wohlers Hall, 1206 S. Sixth Street, Champaign, IL 61820
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Ph.D. Candidate in Organizational Behavior/Theory</p>
+    <p></p>
     <p>Gies College of Business</p>
     <p>University of Illinois at Urbana-Champaign</p>
 
-news: true
+news: false
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate in Organizational Theory at the Gies College of Business at the University of Illinois at Urbana-Champaign. I study antecedents and consequences of social evaluations, such as corporate reputation, organizational celebrity, and approval through media. I am generally interested in how newness or unfamiliarity are accepted, rejected, or ignored by audiences. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My dissertation examines spillover effects of media attention from an unconventional direction from nascent startups to established venture capital firms. I study settings that bear high ambiguities, where there is high outcome uncertainty, the meaning of actions is subject to interpretation, and conflicting external demands are present, such as U.S. venture capital industry, patent litigation, and alternative litigation financing.   
+
+Prior to joining the academia, I worked as a project financial controller in Schneider Electric, Grenoble, France. I also participated in the reestablishment of AIESEC Ghana. 
+
+Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
