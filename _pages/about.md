@@ -1,16 +1,16 @@
 ---
 layout: about
 permalink: /
-title: <strong>Hyunsun</strong> Kim-Hahm
-description: Ph.D. Candidate in Organizational Behavior/Theory. <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: Hyunsun <strong>Kim-Hahm</strong> 
+description: <a href="https://giesbusiness.illinois.edu">Gies College of Business</a>. 330 Wohlers Hall, 1206 S. Sixth Street, Champaign, IL 61820
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Ph.D. Candidate in Organizational Behavior/Theory</p>
+    <p>Gies College of Business</p>
+    <p>University of Illinois at Urbana-Champaign</p>
 
 news: true
 social: true
