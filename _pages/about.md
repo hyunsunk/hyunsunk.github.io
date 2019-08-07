@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title:  <a href="">Hyunsun <strong>Kim-Hahm</strong> link</a>
+title:  Hyunsun <strong>Kim-Hahm</strong> link</a>
 description: Ph.D. Candidate | hkim332@illinois.edu | 330 Wohlers Hall, 1206 S. Sixth Street, Champaign, IL 61820
 
 profile:
