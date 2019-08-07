@@ -2,13 +2,13 @@
 layout: about
 permalink: /
 title: Hyunsun <strong>Kim-Hahm</strong> 
-description: Ph.D. Candidate. 330 Wohlers Hall, 1206 S. Sixth Street, Champaign, IL 61820
+description: Ph.D. Candidate | hkim332@illinois.edu | 330 Wohlers Hall, 1206 S. Sixth Street, Champaign, IL 61820
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p> <a href="https://giesbusiness.illinois.edu">Gies College of Business</a>. </p>
+    #<p> <a href="https://giesbusiness.illinois.edu">Gies College of Business</a>. </p>
     <p>Gies College of Business</p>
     <p>University of Illinois at Urbana-Champaign</p>
 
