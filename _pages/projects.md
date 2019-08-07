@@ -2,7 +2,7 @@
 layout: page
 title: cv
 permalink: /cv/
-description: click to download [get the PDF](/assets/pdf/cv.pdf)
+description: <a href="/assets/pdf/cv.pdf"> click to download </a>
 ---
 
 {% for project in site.projects %}
