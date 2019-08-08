@@ -12,7 +12,7 @@ BADM313 Strategic Human Resource Management
 - Fall 2017, Student evaluation: `4.3/5.0`
 
 
-<strong>teaching Assistant</strong> <br/>
+<strong>teaching assistant</strong> <br/>
 BADM310 Management and Organizational Behavior
 - Fall 2019
 - Spring 2014
