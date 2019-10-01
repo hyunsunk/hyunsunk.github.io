@@ -11,7 +11,7 @@ years: []
 
 Do positive social evaluations (e.g., reputation, celebrity) of startup firms benefit their connected venture capital firms? If so, how? In my dissertation, I explain how newness can sometimes become an asset by integrating ideas from research on spillovers and on media effects. Drawing on judgment under uncertainty and communication theories I hypothesize and test spillover benefits generated from simple heuristics based on familiarity and fluency of information processing. I also theorize how organizational celebrity can produce distinct effects, by separating startup firms that receive sporadic attention from those celebrity startup firms that receive ongoing coverage and gain strong media presence over time. My empirical context is the U.S. venture capital industry and startups funded by venture capital firms. Reflecting my interest in industry emergence and development, I construct a unique dataset of the media accounts of venture capital firms and their portfolio startup firms, covering the years 1968-2018. 
 
-<strong>working papaers</strong> <br/>
+<strong>working papers</strong> <br/>
 
 `Kim-Hahm, H. and Love, EG. Ambiguity, diagnosticity, and reputation (in)consistent actions: The case of patent litigation in the U.S., 1988-2012`
 
