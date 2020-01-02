@@ -13,6 +13,8 @@ BADM313 Strategic Human Resource Management
 
 
 <strong>teaching assistant</strong> <br/>
+BADM544 Strategic Management (iMBA)
+- Spring 2020
 BADM310 Management and Organizational Behavior
 - Fall 2019
 - Spring 2014
