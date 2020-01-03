@@ -16,7 +16,7 @@ BADM313 Strategic Human Resource Management
 BADM544 Strategic Management (iMBA)
 - Spring 2020
 
-BADM310 Management and Organizational Behavior
+BADM310 Management and Organizational Behavior (undergraduate)
 - Fall 2019
 - Spring 2014
 - Fall 2013
