@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title:  Hyunsun <strong>Kim-Hahm</strong> 
-description: Assistant Professor | hkimhahm@eiu.edu |600 Lincoln Avenue, Charleston, IL  61920
+description: Assistant Professor | hkimhahm@eiu.edu | 600 Lincoln Avenue, Charleston, IL  61920
 
 profile:
   align: right
