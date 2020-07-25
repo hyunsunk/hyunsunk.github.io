@@ -14,7 +14,7 @@ University of Illinois Urbana-Champaign
 
 <strong>teaching assistant</strong> <br/>
 University of Illinois Urbana-Champaign
-- MBA551 Strategic Innovatio (iMBA)
+- MBA551 Strategic Innovation (iMBA)
 - BADM544 Strategic Management (iMBA)
 - BADM310 Management and Organizational Behavior
 
